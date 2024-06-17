@@ -1,0 +1,15 @@
+{
+    "indents" :[
+        {
+            "tag" : "greeting", 
+            "patterns": ["hello", "hey", "hi", "good day", "greetings", "what's up", "how's it going"],
+            "responses": ["Hello!", "Hey!", "What can I do for you?", "how can I help you?"]
+        },
+
+        {
+            "tag" : "goodbye",
+            "patterns": ["cya", "goodbye", "have a good day", "I'm leaving", "I'll see you round"],
+            "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"]
+        }
+    ]
+}
